@@ -1,0 +1,4 @@
+// 1.21	2025-07-13T11:53:03.861812	Wands & Wonders/Tags for minecraft:block
+c9581850ead3f6862f892909291a91ddc84a0fdb data\minecraft\tags\block\needs_iron_tool.json
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data\wandswonders\tags\block\needs_moon_lit_tool.json
+6022c31c2064754f12544a0416a47b2c2a77d0be data\minecraft\tags\block\mineable\pickaxe.json

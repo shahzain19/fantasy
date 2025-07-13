@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "wandswonders:block/shadow_stone",
+    "side": "wandswonders:block/shadow_stone",
+    "top": "wandswonders:block/shadow_stone"
+  }
+}

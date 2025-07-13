@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "wandswonders:item/moon_lit_pickaxe"
+  }
+}

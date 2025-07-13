@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wandswonders:block/pir_plank_slab"
+    },
+    "type=double": {
+      "model": "wandswonders:block/pir_plank"
+    },
+    "type=top": {
+      "model": "wandswonders:block/pir_plank_slab_top"
+    }
+  }
+}

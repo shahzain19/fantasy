@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wandswonders:block/dust_stone_slab"
+    },
+    "type=double": {
+      "model": "wandswonders:block/dust_stone"
+    },
+    "type=top": {
+      "model": "wandswonders:block/dust_stone_slab_top"
+    }
+  }
+}

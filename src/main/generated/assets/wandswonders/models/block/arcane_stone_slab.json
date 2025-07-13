@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "wandswonders:block/arcane_stone",
+    "side": "wandswonders:block/arcane_stone",
+    "top": "wandswonders:block/arcane_stone"
+  }
+}

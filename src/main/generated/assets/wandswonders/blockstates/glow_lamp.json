@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "wandswonders:block/glow_lamp"
+    },
+    "clicked=true": {
+      "model": "wandswonders:block/glow_lamp_on"
+    }
+  }
+}

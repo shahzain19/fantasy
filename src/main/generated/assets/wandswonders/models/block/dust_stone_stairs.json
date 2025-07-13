@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "wandswonders:block/dust_stone",
+    "side": "wandswonders:block/dust_stone",
+    "top": "wandswonders:block/dust_stone"
+  }
+}
