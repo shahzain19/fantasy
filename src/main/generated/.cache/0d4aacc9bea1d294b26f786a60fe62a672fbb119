@@ -1,7 +1,9 @@
-// 1.21	2025-07-13T11:53:03.8638076	Wands & Wonders/Tags for minecraft:item
+// 1.21	2025-07-16T13:15:08.5656891	Wands & Wonders/Tags for minecraft:item
 bae731a6cff68caa003c9627a15012341df5cdd8 data\minecraft\tags\item\shovels.json
 f7f5125be3fe5d8c4de2bc905f27180bbb1e7699 data\minecraft\tags\item\axes.json
 30266ff0a7ba70d53df15844b533f7f5e15d0aab data\minecraft\tags\item\swords.json
 3cb75df8e795b189436431310215a33800c12279 data\minecraft\tags\item\pickaxes.json
 fcb24fca008f0075f7546c61f45ba36d1fd10939 data\minecraft\tags\item\hoes.json
+31edb6a868349011cc483dbe2cb9bf17d47b57e6 data\minecraft\tags\item\planks.json
 cb49e836b9b2e6bad6b18b92bf6adebce1db9472 data\wandswonders\tags\item\transformable_items.json
+46bcfa086b1bdd40cce2f17db1d893ee788bc9d0 data\minecraft\tags\item\logs_that_burn.json

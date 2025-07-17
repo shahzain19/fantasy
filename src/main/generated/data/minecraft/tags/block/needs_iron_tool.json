@@ -1,5 +1,7 @@
 {
   "values": [
-    "wandswonders:elixir_gem_ore"
+    "wandswonders:elixir_gem_ore",
+    "wandswonders:pink_garnet_ore",
+    "wandswonders:pink_garnet_deepslate_ore"
   ]
 }

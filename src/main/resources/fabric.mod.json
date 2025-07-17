@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"net.shyn.wandswonders.WandsWondersDataGenerator"
+		],
+		"client": [
+			"net.shyn.wandswonders.WandsWondersClient"
 		]
 	},
 	"mixins": [

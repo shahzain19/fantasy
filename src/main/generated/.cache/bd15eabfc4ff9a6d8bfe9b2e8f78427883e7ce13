@@ -1,4 +1,8 @@
-// 1.21	2025-07-13T11:53:03.861812	Wands & Wonders/Tags for minecraft:block
-c9581850ead3f6862f892909291a91ddc84a0fdb data\minecraft\tags\block\needs_iron_tool.json
+// 1.21	2025-07-16T13:15:08.5626968	Wands & Wonders/Tags for minecraft:block
+f78a9cfd9a6cad6fee0a70120c87ad79cb7dbad9 data\minecraft\tags\block\logs_that_burn.json
+c56d2853e6378da6bd52c12922d2d5555d2ef45e data\minecraft\tags\block\planks.json
+329fd69d4a9c141457f0f0d5c25807c7405b42f1 data\minecraft\tags\block\wooden_slabs.json
+8b3a1c55a8fcd430a46ae113d76d2c769351f1b4 data\minecraft\tags\block\needs_iron_tool.json
+7d4d459a9dfb45975abf55b5b9bf8b4fdd2fd0dc data\minecraft\tags\block\wooden_stairs.json
 32b13946c4cd1f944b029659ccce5fcb2adad4ff data\wandswonders\tags\block\needs_moon_lit_tool.json
-6022c31c2064754f12544a0416a47b2c2a77d0be data\minecraft\tags\block\mineable\pickaxe.json
+df6af38a1b563201df2d7e708dcbed009c85692f data\minecraft\tags\block\mineable\pickaxe.json

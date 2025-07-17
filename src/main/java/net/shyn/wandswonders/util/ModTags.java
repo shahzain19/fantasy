@@ -9,10 +9,11 @@ import net.shyn.wandswonders.WandsWonders;
 
 public class ModTags {
     public static class Blocks {
-
         public static final TagKey<Block> NEEDS_MOON_LIT_TOOL = createTag("needs_moon_lit_tool");
         public static final TagKey<Block> INCORRECT_FOR_MOON_LIT_TOOL = createTag("incorrect_for_moon_lit_tool");
 
+        // ✅ NEW: Used by Obsidianforge tools
+        public static final TagKey<Block> INCORRECT_FOR_OBSIDIANFORGE_TOOL = createTag("incorrect_for_obsidianforge_tool");
 
         private static TagKey<Block> createTag(String name) {
             return TagKey.of(RegistryKeys.BLOCK, Identifier.of(WandsWonders.MOD_ID, name));

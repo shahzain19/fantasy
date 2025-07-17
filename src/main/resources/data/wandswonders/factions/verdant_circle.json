@@ -1,0 +1,13 @@
+{
+  "id": "wandswonders:verdant_circle",
+  "name": "Verdant Circle",
+  "color": "#28a745",
+  "biome": "minecraft:forest",
+  "rewards": ["wandswonders:pink_garnet"],
+  "reputationThresholds": {
+    "hostile": -50,
+    "neutral": 0,
+    "trusted": 50,
+    "ally": 100
+  }
+}

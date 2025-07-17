@@ -2,6 +2,16 @@
   "values": [
     "wandswonders:arcane_stone",
     "wandswonders:elixir_gem_ore",
-    "wandswonders:shadow_stone"
+    "wandswonders:shadow_stone",
+    "wandswonders:arcane_stone_stairs",
+    "wandswonders:arcane_stone_slab",
+    "wandswonders:shadow_stone_stairs",
+    "wandswonders:shadow_stone_slab",
+    "wandswonders:dust_stone",
+    "wandswonders:dust_stone_stairs",
+    "wandswonders:dust_stone_slab",
+    "wandswonders:pink_garnet_ore",
+    "wandswonders:pink_garnet_deepslate_ore",
+    "wandswonders:glow_lamp"
   ]
 }

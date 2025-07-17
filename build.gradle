@@ -30,9 +30,12 @@ dependencies {
 	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
+
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
-	
+
+
+
 }
 
 processResources {
@@ -62,6 +65,19 @@ jar {
 
 	from("LICENSE") {
 		rename { "${it}_${inputs.properties.archivesName}"}
+	}
+}
+
+sourceSets {
+	main {
+		resources {
+			// Ensure all files in resources/ are included
+			srcDirs = ['src/main/resources']
+			include '**/*.nbt'
+			include '**/*.json'
+			include '**/*.lang'
+			include '**/*.mcmeta'
+		}
 	}
 }
 
